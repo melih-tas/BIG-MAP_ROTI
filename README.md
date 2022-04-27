@@ -31,4 +31,4 @@ Node-RED is used for creating a connection between PLC and Raspberry Pi. It is e
 * node-red-contrib-s7
 * node-red-dashboard
 
-<img src="https://user-images.githubusercontent.com/101114939/165475572-87ca0ed3-5abb-4c0a-9a87-396802d7a8af.jpg" width="35%">
+<img src="https://user-images.githubusercontent.com/101114939/165498857-3e6aa23b-5360-4f69-812a-0da2c728fb3d.png" width="100%">
