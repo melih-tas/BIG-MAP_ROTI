@@ -8,6 +8,8 @@ Now that OpenInterface is enabled, an interaction with python is possible.
 Büchi offers some python examples:\
 https://github.com/buchi-labortechnik-ag/openinterface_examples_python.git
 
+The implemented possibilities of the OpenInterface can be found on this Website:\
+https://developer.buchi.digital/rotavapor/openinterface/doc/multi.html
 ## Python
 
 For our case, we need to change some parameters. Here are the python codes used for controlling the R-300:
