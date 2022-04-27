@@ -41,7 +41,7 @@ The red "Filter" node receives the input "true" or "false".
 * When "true", output 1 is "true" and output 2 is nothing.
 * When "false", output 1 is nothing and output 2 is "false".
 
-The yellow block changes the output message. In this case the string "Dry" or "Manual" for choosing a program. 
+The yellow block changes the output message, everytime the state changes from true to false or in reverse. In this case the string "Dry" or "Manual" for choosing a program. 
 
 <img src="https://user-images.githubusercontent.com/101114939/165498857-3e6aa23b-5360-4f69-812a-0da2c728fb3d.png" width="100%">
 
