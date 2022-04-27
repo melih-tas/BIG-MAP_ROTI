@@ -44,3 +44,5 @@ Node-RED can be set in auto-start with running the command:
 ```python
 sudo systemctl enable nodered.service
 ```
+
+## Programmable Logic Controller
