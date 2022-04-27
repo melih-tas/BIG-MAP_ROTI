@@ -35,7 +35,7 @@ Node-RED is used for creating a connection between PLC and Raspberry Pi. It is e
 
 Node-RED is a visual tool, consisting of function blocks (nodes) and connections. The function blocks receive data, which are then processed and sent to the next block. In this case the tool makes it possible to connect the PLC to the Raspberry Pi.\
 The first block (light blue) is the "s7 in" block. This is the block responsible for getting an input from the PLC. The output from "s7 in" leads to the "json" block, automatically transforming a JSON String to a JavaScript Object or the other way around. The next block is "pythonshell in", which can execute python scripts. The last node is "debug", for showing the debug messages.\
-For every parameter, a new python script is required, since we cannot insert multiple different inputs from Node-RED in one python script. That is why the same principle is used several times.
+For every parameter, a new python script is required, since we cannot insert multiple different inputs from Node-RED in one python script. That is why the same principle is used several times.\
 FILTER !!!
 
 <img src="https://user-images.githubusercontent.com/101114939/165498857-3e6aa23b-5360-4f69-812a-0da2c728fb3d.png" width="100%">
