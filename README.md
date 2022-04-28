@@ -52,3 +52,6 @@ sudo systemctl enable nodered.service
 ```
 
 ## Programmable Logic Controller
+
+A PLC by Siemens is being used in this project. It is a SIMATIC ET 200SP. The power supply is a SITOP PSU100S. The needed input is AC 120/230 V and the given output is DC 24 V/5 A.
+
