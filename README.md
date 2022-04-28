@@ -14,14 +14,14 @@ https://developer.buchi.digital/rotavapor/openinterface/doc/multi.html
 
 For our case, we need to change some parameters. Here are the python codes used for controlling the R-300:
 
-[Start](python_scripts/start.py)\
-[Stop](python_scripts/stop.py)\
-[Heating](python_scripts/heating.py)\
-[Rotation](python_scripts/rotation.py)\
-[Vacuum](python_scripts/vacuum.py)\
-[Program](python_scripts/program.py)\
-[Rotate](python_scripts/rotate.py)\
-[Stop_Rotate](python_scripts/stop_rotate.py)
+* [Start](python_scripts/start.py)
+* [Stop](python_scripts/stop.py)
+* [Heating](python_scripts/heating.py)
+* [Rotation](python_scripts/rotation.py)
+* [Vacuum](python_scripts/vacuum.py)
+* [Program](python_scripts/program.py)
+* [Rotate](python_scripts/rotate.py)
+* [Stop_Rotate](python_scripts/stop_rotate.py)
 
 With an Ethernet connection between Raspberry Pi and R-300, we can now run the python scripts and change the parameters by hand in the code. 
 
