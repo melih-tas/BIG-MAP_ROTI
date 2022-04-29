@@ -56,3 +56,9 @@ sudo systemctl enable nodered.service
 A Siemens PLC is being used in this project. It is a SIMATIC ET 200SP. The power supply is a SITOP PSU100S. The needed input is AC 120/230 V and the given output is DC 24 V/5 A.
 
 <img src="https://user-images.githubusercontent.com/101114939/165723514-2be1792b-7a0d-4e0f-89c0-0bbf47b50346.jpg" width="50%">
+
+## Communication
+
+This diagram shows the flow process of the communication. 
+
+<img src="https://user-images.githubusercontent.com/101114939/165900971-f0ee3757-d655-4a68-8be3-8a27d537c39f.PNG" width="50%">
