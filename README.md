@@ -62,3 +62,9 @@ A Siemens PLC is being used in this project. It is a SIMATIC ET 200SP. The power
 This diagram shows the flow process of the communication. The dots signalize the wireless connections, whereas the solid lines signalize the cable connections. It all starts with a manual input in the HMI (Human Machine Interface). The PLC is sending this data to Node-RED with being in the same network. Node-RED is then processing this data and runs the different python scripts with the given inputs. The R-300 receives these commands and can be controlled like that. 
 
 <img src="https://user-images.githubusercontent.com/101114939/165900971-f0ee3757-d655-4a68-8be3-8a27d537c39f.PNG" width="50%">
+
+## Result
+
+This is how the final state of the project looks like thus far.
+
+<img src="https://user-images.githubusercontent.com/101114939/165906712-f8065374-8a99-4a05-9146-cfcd33a2eac9.jpg" width="50%">
