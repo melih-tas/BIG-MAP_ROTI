@@ -65,7 +65,13 @@ This diagram shows the flow process of the communication. The dots signalize the
 
 ## Fastening mechanism
 
-Thus far, the Roti is able to be controlled via PLC. For making it more autonomous, the process of fastening and releasing the flask must be automated as well. This requires some form of external effect, since the Combi-Clip (the part made for connecting the flask to the Roti) was originally designed to be opened manually. The decision was made for a linear electromagnet, with the ability to stroke. The actuator is extending and pressing against the Combi-Clip. The friction is holding the Combi-Clip in place, while the Roti is rotating for a few rounds. This movement is fastening the flask in a reliable way without changing the Combi-Clip or any other part at all. 
+Thus far, the Roti is able to be controlled via PLC. For making it more autonomous, the process of fastening and releasing the flask must be automated as well. This requires some form of external effect, since the Combi-Clip (the part made for connecting the flask to the Roti) was originally designed to be opened manually. The decision was made for a linear electromagnet, with the ability to stroke. The actuator is extending and pressing against the Combi-Clip. The friction is holding the Combi-Clip in place, while the Roti is rotating for a few rounds. This movement is fastening the flask in a reliable way without changing the Combi-Clip or any other part at all. The head of the actuator is made out of addition-vulcanising vinyl-polysiloxane. 
+
+
+
+The actuator is controlled solely via PLC. The logic circuit is displayed in the following picture:
+
+<img src="https://user-images.githubusercontent.com/101114939/169826928-257abb5c-82b0-4935-abc9-3fbabb3508b0.PNG" width="50%">
 
 ## Result
 
