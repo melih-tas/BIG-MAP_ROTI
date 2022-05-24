@@ -75,6 +75,6 @@ The actuator is controlled solely via PLC. Five seconds after activation, the ac
 
 ## Result
 
-This is how the final state of the project looks like thus far.
+This is how the final state of the project looks like thus far. Except the linear actuator was not installed at this point.
 
 <img src="https://user-images.githubusercontent.com/101114939/165906712-f8065374-8a99-4a05-9146-cfcd33a2eac9.jpg" width="50%">
